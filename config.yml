@@ -1,0 +1,194 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "content/assets"
+public_folder: "content/assets"
+
+locale: "fr"
+
+collections:
+
+  # ── ÉPISODES
+  - name: "episodes"
+    label: "Épisodes"
+    label_singular: "Épisode"
+    folder: "content/episodes"
+    create: true
+    slug: "ep-{{fields.episode_number}}"
+    identifier_field: "title"
+    summary: "#{{episode_number}} — {{guest}}"
+    sortable_fields: ["episode_number", "date"]
+    view_filters:
+      - label: "Brouillons"
+        field: draft
+        pattern: true
+    fields:
+      - label: "Numéro d'épisode"
+        name: "episode_number"
+        widget: "number"
+        value_type: "int"
+        hint: "Ex: 532"
+
+      - label: "Titre complet"
+        name: "title"
+        widget: "string"
+        hint: "Ex: #532 — Dominique Schelcher — Coopérative U"
+
+      - label: "Invité"
+        name: "guest"
+        widget: "string"
+        required: false
+        hint: "Prénom Nom"
+
+      - label: "Rôle / Entreprise"
+        name: "subtitle"
+        widget: "string"
+        required: false
+        hint: "Ex: Coopérative U - Faire des milliards..."
+
+      - label: "Date de publication"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "DD/MM/YYYY"
+        time_format: false
+
+      - label: "Photo bannière"
+        name: "cover"
+        widget: "image"
+        required: false
+        hint: "Photo de l'invité pour le header de la page"
+
+      - label: "Lien podcast (Spotify / Apple)"
+        name: "podcast_url"
+        widget: "string"
+        required: false
+
+      - label: "LinkedIn de l'invité"
+        name: "linkedin"
+        widget: "string"
+        required: false
+
+      - label: "Durée"
+        name: "duration"
+        widget: "string"
+        required: false
+        hint: "Ex: 01:45:32"
+
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["episode"]
+
+      - label: "Brouillon (ne pas publier)"
+        name: "draft"
+        widget: "boolean"
+        default: false
+        hint: "Si coché, la page n'apparaît pas sur le site"
+
+      - label: "Contenu"
+        name: "body"
+        widget: "markdown"
+        hint: "Pitch, timeline, livres, références — coller le contenu généré par Claude"
+
+  # ── INVITÉS
+  - name: "guests"
+    label: "Invités"
+    label_singular: "Invité"
+    folder: "content/guests"
+    create: true
+    slug: "{{fields.guest_slug}}"
+    identifier_field: "title"
+    fields:
+      - label: "Nom"
+        name: "title"
+        widget: "string"
+
+      - label: "Slug URL"
+        name: "guest_slug"
+        widget: "string"
+        hint: "Ex: dominique-schelcher (sans majuscules, sans espaces)"
+
+      - label: "Photo"
+        name: "photo"
+        widget: "image"
+        required: false
+
+      - label: "LinkedIn"
+        name: "linkedin"
+        widget: "string"
+        required: false
+
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["guest"]
+
+      - label: "Biographie / Notes"
+        name: "body"
+        widget: "markdown"
+        required: false
+
+  # ── LIVRES
+  - name: "books"
+    label: "Livres recommandés"
+    label_singular: "Livre"
+    folder: "content/books"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: "title"
+    summary: "{{title}} — {{author}}"
+    fields:
+      - label: "Titre du livre"
+        name: "title"
+        widget: "string"
+
+      - label: "Auteur"
+        name: "author"
+        widget: "string"
+        required: false
+
+      - label: "Lien Amazon affilié"
+        name: "amazon_url"
+        widget: "string"
+        required: false
+        hint: "Lien amzn.to/... pour les commissions affiliées"
+
+      - label: "Couverture"
+        name: "cover"
+        widget: "image"
+        required: false
+
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["book"]
+
+      - label: "Notes / Contexte"
+        name: "body"
+        widget: "markdown"
+        required: false
+
+  # ── THÈMES
+  - name: "topics"
+    label: "Thèmes"
+    label_singular: "Thème"
+    folder: "content/topics"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: "title"
+    fields:
+      - label: "Nom du thème"
+        name: "title"
+        widget: "string"
+
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["topic"]
+
+      - label: "Description"
+        name: "body"
+        widget: "markdown"
+        required: false
