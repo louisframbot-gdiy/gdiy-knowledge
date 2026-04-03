@@ -1,0 +1,26 @@
+---
+title: "Romain Grosjean"
+author: ""
+type: book
+slug: "romain-grosjean"
+tags: [livre, ressource]
+draft: false
+---
+
+# Romain Grosjean
+
+**Auteur :** À compléter
+
+---
+
+## Résumé
+
+<!-- TODO: Résumé à générer via Claude -->
+
+*Résumé à compléter.*
+
+---
+
+## Mentionné dans GDIY
+
+- [[content/romain-grosjean]]
