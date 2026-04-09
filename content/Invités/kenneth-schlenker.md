@@ -9,7 +9,6 @@ draft: false
 ---
 
 # Kenneth Schlenker
-
 Fondateur de Opal
 
 [LinkedIn](https://www.linkedin.com/in/kennethschlenker/)
