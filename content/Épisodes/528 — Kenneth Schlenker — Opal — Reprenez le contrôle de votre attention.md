@@ -42,7 +42,7 @@ draft: false
 
 À scroller, discuter ou consommer du contenu. Des habitudes ancrées dans nos vies au même titre que manger, boire et dormir. Et parfois encore plus inconscientes.
 
-[[kenneth-schlenker]] connaît les mécanismes de cette addiction moderne mieux que personne. Dès 2007, en stage chez Google à Londres, il apprend à concevoir des produits qui ne servent qu'un seul objectif : capter le plus de temps de cerveau disponible possible.
+[[Kenneth Schlenker]] connaît les mécanismes de cette addiction moderne mieux que personne. Dès 2007, en stage chez Google à Londres, il apprend à concevoir des produits qui ne servent qu'un seul objectif : capter le plus de temps de cerveau disponible possible.
 
 Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une application qui aide ses utilisateurs à reprendre le contrôle de leur attention. Dans cet épisode, il livre tous les secrets de l'économie de l'attention et explique comment inverser durablement la tendance.
 
