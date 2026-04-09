@@ -1,5 +1,6 @@
 ---
 title: Kenneth Schlenker
+guest: Fondateur d'Opal
 linkedin: https://www.linkedin.com/in/kennethschlenker/
 tags:
   - invités
@@ -7,9 +8,6 @@ tags:
   - entrepreneuriat
 draft: false
 ---
-
-# Kenneth Schlenker
-Fondateur de Opal
 
 [LinkedIn](https://www.linkedin.com/in/kennethschlenker/)
 
