@@ -73,27 +73,6 @@ Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une applicatio
     <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
   </div>
 </div>
-***
-
-## Timeline
-
-- `00:00:00` Tout ce qu'on peut savoir sur vous grâce à votre activité en ligne
-- `00:11:22` Le Covid a accéléré le problème et sa réalisation, en même temps
-- `00:27:45` Ce que dit le temps d'écran moyen de notre société
-- `00:36:15` Comment remettre de l'intention dans le contenu qu'on consomme
-- `00:43:53` Pourquoi les réseaux sociaux font tout pour que leurs utilisateurs soient malheureux
-- `00:55:41` Les meilleures techniques pour reprendre le contrôle de son attention
-- `01:10:16` Aligner la technologie avec le bien-être humain
-- `01:23:30` Apple vs Android : quelles différences sur les usages
-- `01:30:51` Il faut motiver les gens plutôt que les restreindre
-- `01:39:43` Commencer sa désintoxication des écrans avec 1 seul réflexe
-- `01:50:04` La nécessité de retrouver des moments d'isolement, loin des écrans
-- `01:58:34` Nous sommes arrivés à un point de bascule
-- `02:04:32` Parents, votre rôle est crucial
-- `02:10:05` 10 millions d'ARR avec une équipe de 25
-- `02:15:53` L'IA est en train de pirater l'intimité des gens
-- `02:22:29` Couper les notifications pour retrouver sa liberté de penser
-
 ---
 
 ## Livres recommandés
@@ -114,8 +93,21 @@ Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une applicatio
 - [Les cabines Nutchel](https://fr.nutchel.be/pages/forest-village/cabane-dans-les-arbres-alsace)
 
 ---
-
 ## Épisodes mentionnés
+
+
+***
+<div style="border:1px solid #e8e8e8; border-radius:12px; padding:28px 32px; margin:32px 0; font-family:'Montserrat',sans-serif; background:#fff;">
+  <div style="display:flex; justify-content:space-between; align-items:center; gap:20px; flex-wrap:wrap;">
+    <div style="display:flex; align-items:center; gap:16px;">
+      <img src="[URL_LOGO_SPONSOR]" alt="[NOM SPONSOR]" height="40" style="object-fit:contain;" />
+      <span style="font-size:22px; font-weight:700; color:#000; letter-spacing:0.5px;">[NOM SPONSOR]</span>
+    </div>
+    <a href="[URL_SPONSOR]" target="_blank" style="background:#000; color:#fff; padding:12px 24px; border-radius:6px; font-size:14px; font-weight:700; text-decoration:none; white-space:nowrap;">VOIR LE SITE</a>
+  </div>
+  <p style="margin:16px 0 8px 0; font-size:14px; color:#333; line-height:1.5;">[DESCRIPTION DU SPONSOR EN 1-2 PHRASES]</p>
+  <p style="margin:0; font-size:12px; color:#888;">Vous souhaitez sponsoriser <a href="https://www.gdiy.fr" style="color:#888;">Génération Do It Yourself</a> ou nous proposer un partenariat ? <a href="https://orsomedia.io/#contact" style="color:#888;">Contactez mon label Orso Media via ce formulaire</a>.</p>
+</div>
 
 
 ---
