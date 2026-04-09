@@ -1,6 +1,6 @@
 ---
-title: "Kenneth Schlenker"
-linkedin: "https://www.linkedin.com/in/kennethschlenker/"
+title: Kenneth Schlenker
+linkedin: https://www.linkedin.com/in/kennethschlenker/
 tags:
   - invités
   - technologie
