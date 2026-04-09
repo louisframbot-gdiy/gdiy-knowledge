@@ -95,7 +95,9 @@ Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une applicatio
 ---
 ## Épisodes mentionnés :
 
-
+- XXX
+- XXX
+- XXX
 ***
 <div style="border:1px solid #e8e8e8; border-radius:12px; padding:28px 32px; margin:32px 0; font-family:'Montserrat',sans-serif; background:#fff;">
   <div style="display:flex; justify-content:space-between; align-items:center; gap:20px; flex-wrap:wrap;">
