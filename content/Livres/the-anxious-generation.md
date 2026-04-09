@@ -9,10 +9,6 @@ tags:
 draft: false
 ---
 
-# The Anxious Generation
-
-*Jonathan Haidt*
-
 [Voir sur Amazon](https://amzn.to/47zzK86)
 
 Ce livre est devenu la référence sur la crise de santé mentale des adolescents et le rôle des smartphones. Jonathan Haidt relie des données massives à des mécanismes psychologiques précis, sans panique morale ni déni technophile.

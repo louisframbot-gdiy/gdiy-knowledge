@@ -9,9 +9,6 @@ tags:
 draft: false
 ---
 
-# Happier
-
-*Tal Ben-Shahar*
 
 [Voir sur Amazon](https://amzn.to/4szPJv9)
 

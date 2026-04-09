@@ -9,9 +9,6 @@ tags:
 draft: false
 ---
 
-# La semaine de 4 heures
-
-*Tim Ferriss*
 
 [Voir sur Amazon](https://amzn.to/3N6UoWr)
 
