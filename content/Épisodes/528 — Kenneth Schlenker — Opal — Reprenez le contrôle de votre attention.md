@@ -93,7 +93,7 @@ Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une applicatio
 - [Les cabines Nutchel](https://fr.nutchel.be/pages/forest-village/cabane-dans-les-arbres-alsace)
 
 ---
-## Épisodes mentionnés
+## Épisodes mentionnés :
 
 
 ***
@@ -108,6 +108,22 @@ Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une applicatio
   <p style="margin:16px 0 8px 0; font-size:14px; color:#333; line-height:1.5;">[DESCRIPTION DU SPONSOR EN 1-2 PHRASES]</p>
   <p style="margin:0; font-size:12px; color:#888;">Vous souhaitez sponsoriser <a href="https://www.gdiy.fr" style="color:#888;">Génération Do It Yourself</a> ou nous proposer un partenariat ? <a href="https://orsomedia.io/#contact" style="color:#888;">Contactez mon label Orso Media via ce formulaire</a>.</p>
 </div>
+<div style="background-color:#00FFAD; padding:32px 24px; border-radius:12px; text-align:center; margin:32px 0; font-family:'Montserrat',sans-serif;">
+  <p style="font-size:20px; font-weight:900; color:#000; margin:0 0 20px 0; letter-spacing:0.5px;">SUIVRE LE PODCAST GDIY SUR LES RÉSEAUX</p>
+  <div style="background:#fff; border-radius:12px; padding:20px; display:flex; justify-content:center; align-items:center; gap:28px; flex-wrap:wrap;">
+    <a href="https://www.youtube.com/c/MatthieuStefani" target="_blank" style="display:inline-block;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="56" height="56" style="border-radius:12px;" />
+    </a>
+    <a href="https://www.instagram.com/gdiypodcast/?hl=fr" target="_blank" style="display:inline-block;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="56" height="56" style="border-radius:12px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/stefani/?locale=fr_FR" target="_blank" style="display:inline-block;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="56" height="56" style="border-radius:12px;" />
+    </a>
+    <a href="https://www.tiktok.com/@mattintouch" target="_blank" style="display:inline-block;">
+      <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="56" height="56" style="border-radius:12px;" />
+    </a>
+  </div>
+</div>
+***
 
-
----
