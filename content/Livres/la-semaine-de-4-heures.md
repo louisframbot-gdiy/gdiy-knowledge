@@ -23,4 +23,4 @@ Ferriss y introduit les concepts de "batching" (regrouper les tâches similaires
 
 ## Épisodes qui recommandent ce livre
 
-- [[ep-528]] — Kenneth Schlenker — Opal
+- [[528 — Kenneth Schlenker — Opal — Reprenez le contrôle de votre attention]] — Kenneth Schlenker — Opal

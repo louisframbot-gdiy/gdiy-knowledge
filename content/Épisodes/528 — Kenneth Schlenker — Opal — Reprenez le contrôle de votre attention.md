@@ -78,8 +78,5 @@ Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une applicatio
 
 ## Épisodes mentionnés
 
-- [[ep-421]] — Jean-Charles Samuelian-Werve — Alan
 
 ---
-
-*Note générée à partir du transcript et de la fiche rédac.*
