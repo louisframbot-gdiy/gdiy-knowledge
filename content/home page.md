@@ -1,5 +1,5 @@
 ---
-title: "Génération Do It Yourself"
+title: Génération Do It Yourself
 tags:
   - gdiy
 draft: false
