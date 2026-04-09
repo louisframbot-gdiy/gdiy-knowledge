@@ -2,7 +2,7 @@
 title: "Nicolas Mermoud"
 type: guest
 slug: "nicolas-mermoud"
-role: "HOKA - Retourner le marché du running avec des semelles "grotesques”"
+role: "HOKA - Retourner le marché du running avec des semelles 'grotesques”"
 tags: [invité, nicolas-mermoud]
 draft: false
 ---

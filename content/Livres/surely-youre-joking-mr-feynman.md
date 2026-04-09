@@ -1,5 +1,5 @@
 ---
-title: ""Surely You're Joking, Mr. Feynman!”"
+title: "'Surely You're Joking, Mr. Feynman!”"
 author: ""
 type: book
 slug: "surely-youre-joking-mr-feynman"

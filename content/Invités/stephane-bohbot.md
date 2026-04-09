@@ -2,7 +2,7 @@
 title: "Stéphane Bohbot"
 type: guest
 slug: "stephane-bohbot"
-role: "Innov8 - "La Chine ne copie plus, elle impose sa vision""
+role: "Innov8 - 'La Chine ne copie plus, elle impose sa vision'"
 tags: [invité, stephane-bohbot]
 draft: false
 ---

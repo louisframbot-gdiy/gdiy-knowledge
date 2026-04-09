@@ -2,7 +2,7 @@
 title: "Marie"
 type: guest
 slug: "marie"
-role: "Amélie Le Fur - Présidente du Comité Paralympique - "L’amputation a été la solution la plus salvatrice pour moi""
+role: "Amélie Le Fur - Présidente du Comité Paralympique - 'L’amputation a été la solution la plus salvatrice pour moi'"
 tags: [invité, marie]
 draft: false
 ---
