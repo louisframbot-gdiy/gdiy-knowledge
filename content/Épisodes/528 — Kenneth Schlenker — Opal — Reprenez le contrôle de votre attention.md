@@ -77,9 +77,9 @@ Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une applicatio
 
 ## Livres recommandés
 
-- [[the-anxious-generation]] — Jonathan Haidt ([Amazon](https://amzn.to/47zzK86))
-- [[la-semaine-de-4-heures]] — Tim Ferriss ([Amazon](https://amzn.to/3N6UoWr))
-- [[happier]] — Tal Ben-Shahar ([Amazon](https://amzn.to/4szPJv9))
+- [[The anxious generation - Jonathan Haidt]] — Jonathan Haidt ([Amazon](https://amzn.to/47zzK86))
+- [[La semaine de 4 heures - Tim Ferriss]] — Tim Ferriss ([Amazon](https://amzn.to/3N6UoWr))
+- [[Happier - Tal Ben-Shahar]] — Tal Ben-Shahar ([Amazon](https://amzn.to/4szPJv9))
 
 ---
 

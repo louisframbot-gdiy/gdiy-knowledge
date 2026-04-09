@@ -22,5 +22,5 @@ Le podcast s'intéresse aussi aux entrepreneurs qui cherchent à rediriger la te
 
 ## Livres recommandés
 
-- [[the-anxious-generation]] — Jonathan Haidt
-- [[la-semaine-de-4-heures]] — Tim Ferriss
+- [[The anxious generation - Jonathan Haidt]] — Jonathan Haidt
+- [[La semaine de 4 heures - Tim Ferriss]] — Tim Ferriss
