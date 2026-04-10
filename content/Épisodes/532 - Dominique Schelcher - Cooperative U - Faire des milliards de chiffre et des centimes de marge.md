@@ -16,7 +16,7 @@ tags:
 draft: false
 ---
 
-**Invité :** [[dominique-schelcher]]
+**Invité :** [[Dominique Schelcher]]
 **Date :** 2026-03-26
 **Durée :** ~2h22
 
