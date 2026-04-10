@@ -54,7 +54,7 @@ Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une applicatio
 
 *Vous pouvez suivre Kenneth sur [LinkedIn](https://www.linkedin.com/in/kennethschlenker/).*
 
----
+***
 <div style="background-color:#00FFAD; padding:32px 24px; border-radius:12px; text-align:center; margin:32px 0; font-family:'Montserrat',sans-serif;">
   <p style="font-size:20px; font-weight:900; color:#000; margin:0 0 20px 0; letter-spacing:0.5px;">RECEVOIR LE RÉSUMÉ DÉTAILLÉ DE L'ÉPISODE</p>
   <div style="background:#fff; border-radius:12px; padding:20px; max-width:540px; margin:0 auto;">
@@ -73,7 +73,7 @@ Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une applicatio
     <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
   </div>
 </div>
----
+***
 
 ## Livres recommandés
 
@@ -81,7 +81,7 @@ Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une applicatio
 - [[La semaine de 4 heures - Tim Ferriss]] — Tim Ferriss ([Amazon](https://amzn.to/3N6UoWr))
 - [[Happier - Tal Ben-Shahar]] — Tal Ben-Shahar ([Amazon](https://amzn.to/4szPJv9))
 
----
+***
 
 ## Références et mentions
 
@@ -92,7 +92,7 @@ Après plusieurs aventures entrepreneuriales, Kenneth fonde Opal, une applicatio
 - [Le Offline Club à Paris](https://www.theoffline-club.com/city-chapters/paris-chapter)
 - [Les cabines Nutchel](https://fr.nutchel.be/pages/forest-village/cabane-dans-les-arbres-alsace)
 
----
+***
 ## Épisodes mentionnés :
 
 - XXX
