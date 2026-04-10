@@ -1,10 +1,10 @@
 ---
-title: "#528 — Kenneth Schlenker — Opal — Reprenez le contrôle de votre attention"
+title: "#528 - Kenneth Schlenker - Opal - Reprenez le contrôle de votre attention"
 episode_number: 528
 date: 2026-03-11
 guest: Kenneth Schlenker
 guest_slug: kenneth-schlenker
-podcast_url: "https://www.gdiy.fr/podcast/kenneth-schlenker/"
+podcast_url: https://www.gdiy.fr/podcast/kenneth-schlenker/
 duration: 02:27:00
 tags:
   - épisodes

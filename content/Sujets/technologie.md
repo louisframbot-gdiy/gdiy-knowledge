@@ -16,7 +16,7 @@ Le podcast s'intéresse aussi aux entrepreneurs qui cherchent à rediriger la te
 
 ## Épisodes
 
-- [[528 — Kenneth Schlenker — Opal — Reprenez le contrôle de votre attention]] — Kenneth Schlenker — Opal — Reprenez le contrôle de votre attention
+- [[528 - Kenneth Schlenker - Opal - Reprenez le contrôle de votre attention]] — Kenneth Schlenker — Opal — Reprenez le contrôle de votre attention
 
 ---
 
