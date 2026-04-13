@@ -15,7 +15,7 @@ draft: false
 
 ## Biographie
 
-Kenneth Schlenker commence sa carrière à 20 ans chez Google à Londres en 2007, au sein d'une équipe de recherche interne appelée Market Insights. Il y découvre avant presque tout le monde ce que signifie avoir accès à des données massives sur les comportements humains : la capacité de prédire, d'influencer et de transformer le comportement des gens. À l'époque, ni l'économie de l'attention ni la vie privée ne sont encore des sujets de société.
+Kenneth Schlenker commence sa carrière à 22 ans chez Google à Londres en 2007, au sein d'une équipe de recherche interne appelée Market Insights. Il y découvre avant presque tout le monde ce que signifie avoir accès à des données massives sur les comportements humains : la capacité de prédire, d'influencer et de transformer le comportement des gens. À l'époque, ni l'économie de l'attention ni la vie privée ne sont encore des sujets de société.
 
 Après plusieurs aventures entrepreneuriales, il fonde Opal en janvier 2020, convaincu que la technologie qui a créé le problème est la mieux placée pour le résoudre. L'application atteint 10 millions d'ARR avec une équipe de 25 personnes. Elle est particulièrement adoptée par les jeunes de 15 à 25 ans qui l'utilisent de leur propre initiative.
 
